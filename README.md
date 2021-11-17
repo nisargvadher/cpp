@@ -117,7 +117,7 @@ Problem 5-3:
 
 
 ----------x----------x----------x----------x----------x----------x----------x----------x----------x----------x----------x----------x----------x
-Below are some complex problems solved using Dynamic Programming.
+Below problems are solved using Dynamic Programming.
 
 Problem 6-1: Maximum Amount of Gold
 
